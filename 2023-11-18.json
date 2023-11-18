@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Grant",
+  "age": 55,
+  "address": {
+    "street": "Lemko Loop",
+    "city": "Gabfaeco",
+    "state": "NC",
+    "zip": "90534"
+  },
+  "contact": {
+    "phone": "(814) 918-7517",
+    "servicePhone": "800335939"
+  },
+  "birthday": "1971-09-11T01:23:16.581Z",
+  "ip": "6.89.34.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo ope joggul arope zo zeg naniwu sesuf danoviv se ak geuv ju la. Netob tok nilugpa vi iwuju pozcik itowomug huholve be lon za bi nawuca pajizal javju bishato. Folo vom afvejan munid wu avamuj jo bit zes rom azfavmap fo honloav pip acotinic ijugvi zenu ov. Tuage pebmijuc jec ve pe nat runone wez anupu bum lidkunfi etuwokte.",
+    "bio": "Kitid cofo oho kewbawwed hopuile ri og hofful afkipih wah erosizuk sevah cahfod ujioz nedocal. Ekog ciudzuv rivtev du fij fejoafi vukjaub be hi wiwzu uk tag oco ekjip weseked ebfo ujatize cewtobkap. Gud zosoca zipdooku varleej muwwu ikuwij bop teeso ba pi ewu dez reheku ve."
+  },
+  "apiKey": "9b89fe490db1631d94edff0e4abe935adab0ad4c1f21e26257284fc798be9aed",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
