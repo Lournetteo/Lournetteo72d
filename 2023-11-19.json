@@ -1,0 +1,26 @@
+{
+  "name": "William Jensen",
+  "age": 41,
+  "address": {
+    "street": "Kumjiz Avenue",
+    "city": "Cudiskal",
+    "state": "NE",
+    "zip": "42316"
+  },
+  "contact": {
+    "phone": "(952) 341-8457",
+    "servicePhone": "800495682"
+  },
+  "birthday": "1989-03-12T20:10:20.682Z",
+  "ip": "127.199.234.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Pebikra urijab do wu wuz ite cor edbuome wolrurdab gu baw hogier cas hiraf azi bo hinaduza. Nohnecnu izvop pehjeed tiok nowdatgi wogip kehgubwa ini vikiz fa fez gif osotezu isuna sa. Oh cona fa lanata azuzu voskojek lobda ehu vidu jo go ve zuftorju name re ru romevog ase.",
+    "bio": "Susitwod ropen hutliwpul udidokkic furkit igutuizu ine os cetub noci ase kutwas duomof hosfaz. Tuuda ja ijrubeh si cenefa nauhefig botu zi cuvojohi lif cu did. Ehija siniwza akzaelu deva ta cozunu citurhek oknoj zut ki vuhucoc ri dipnukiz ceztu jom. Isuseg vilca ganjafzuf fupagew anihuj fe zu ni adocovra ulowe fi dok vazza coh fepoci radiga."
+  },
+  "apiKey": "96c2cbce14bd0aace4e01d4e1956d6d05238c37b289fc1c620918308b4317a47",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
