@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Romero",
+  "age": 22,
+  "address": {
+    "street": "Nucho Boulevard",
+    "city": "Rejirru",
+    "state": "WA",
+    "zip": "31611"
+  },
+  "contact": {
+    "phone": "(418) 333-1807",
+    "servicePhone": "800928321"
+  },
+  "birthday": "1989-07-19T01:57:39.500Z",
+  "ip": "210.197.102.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki vom mobakaog toge koc ak ob suibufa muki zan ne li. Pilevfus waunugon baf togdusizi zudlaw gi duj laloko ed mu wozipgar bigi. De vesiv duka zo vojego gih tinoet pice sa hip awe guzed giufguh revegze pa. Udti muhgazu wufriluv hioj zikewuk eke jesu fi ogo fes girelet bo. Joltagat egano ebacil ted duc dik fuzofo liba ti maji bogaw sad awa gaj dozake okcofes.",
+    "bio": "Ocacuhkir tu ikhan kalsif uprufmev gorgikva ropuame gapuccev nal ogopesa ut rihore uca kom saiwuus pebukric muz ot. Dop cuhipohi te cuziw omo ofesfu vuafa cemoh vuktu akeocet fipig rawal zondac ohdewrul giv womtub nodafha inemu. Og huz haksup kusi zijzoluf nini dorbi sekal fu hifsif tul igo cojebuj tarsejme uvjoma ipoeneamo."
+  },
+  "apiKey": "1fa5ffeb18eab1a8d303a244c108662aea9755fe332fcd80100ed206da8c676b",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
