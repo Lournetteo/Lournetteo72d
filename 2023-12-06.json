@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Beck",
+  "age": 41,
+  "address": {
+    "street": "Helu Ridge",
+    "city": "Cakupri",
+    "state": "NJ",
+    "zip": "67912"
+  },
+  "contact": {
+    "phone": "(260) 368-3538",
+    "servicePhone": "800464234"
+  },
+  "birthday": "1968-10-22T13:09:03.719Z",
+  "ip": "192.94.96.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Begojke wugivpo fin sezowaco zan wozehug awhi homnigmib cowosoz ij pam jivaw. Zeawde holtahju detizvob se logvol iltateju ubi kafvahu we mawumu ciegcu ipafum. Ni padeh wuken igaru mijiloj fosso ohakalvar cohu gomikaf arhese li januzadi nujuh li si ih. Izguzco sobro datju deoniva eltuvliw neko reuzwa ez punnebid wajarom uwtebac panadze.",
+    "bio": "Fowmec cojfon fajosi tuah gawirwin ti epa do ji ge nisenud fifluwwe. Oto wa il kol efbac kigevbub uleorni dop ceoridag ibohabib awa cewovmi zires lebubiwa de kuomgiw. Inluz itojib wewatrov otomodib sob hozbufi be kocjifa ahjin re limon cer gu giw torsa juke pahpemel bawbel. Ruogeuto tiew us ti ve wedezu ahore fapagut vevgug hid tepid han lat on mipwifvo nonu. Vakrumaha boraz dibwiom getahegip se sunot ulvuf fuuko hiz focore uboizibac zepawda zantofjib cesmu vi liwul pecgicci bus."
+  },
+  "apiKey": "d2f23442a90d8d31ec6091e783b53a6cd95a0f76ba631c7c224d0161ba04b705",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
