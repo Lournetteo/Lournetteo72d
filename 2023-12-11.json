@@ -1,0 +1,26 @@
+{
+  "name": "Kate Johnston",
+  "age": 28,
+  "address": {
+    "street": "Dukcak Pike",
+    "city": "Fufueda",
+    "state": "VA",
+    "zip": "94500"
+  },
+  "contact": {
+    "phone": "(838) 826-4541",
+    "servicePhone": "800351352"
+  },
+  "birthday": "1988-11-23T06:07:58.530Z",
+  "ip": "61.248.4.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Emimere ma celdiruse kum mopucef gikjulom tuno memoj leemawo wus lu alceroh lop obikeep mu. Duwkek masseg fazti feb dokonuv pasnizci uke zacedfi toh zarides zurkal jug sicabu nudojri su. Dira vuthi hi fias na jekobreg duhib zak abfuk lehwuvok haz oma.",
+    "bio": "Ti pepzucjo tepoc temuja eb vulwup wukramiv igeve ugfuzli eloek hila hur wezgorat jilhelfit liwbufru hecidacu. Tej junamopud pas vu banuzuc diwmuk jaahiomo aznaju lorhuebi giw ocutogcan tu rehe cizonzid efpol. Jordemfef duehihap isjuwum rit rummaphi cej lemense ro ras zezcawmul mentir ni kuvkendu bufoab heis alomu."
+  },
+  "apiKey": "25d4e5a704ecd403710ed724de45936628bb240e0a8c0db156e26f915567a919",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
