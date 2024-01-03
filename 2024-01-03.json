@@ -1,0 +1,26 @@
+{
+  "name": "Leila Howard",
+  "age": 26,
+  "address": {
+    "street": "Obulip View",
+    "city": "Hafokfe",
+    "state": "OR",
+    "zip": "74327"
+  },
+  "contact": {
+    "phone": "(611) 275-9180",
+    "servicePhone": "800481942"
+  },
+  "birthday": "1987-12-28T04:33:59.764Z",
+  "ip": "13.182.159.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Pojjesse hu bambese evu be rotzeone runun jowezze rejmet tic jogu ahakeb amirabufo rozdid ivi esce. Todusnu hag vez nenorde pu gaspenvo tod ti tobe ibatuik zo fotlo. Su hutfemdip ervirika vibe pudik afohva pema etumunjo kommitdo op gof gur.",
+    "bio": "Higtof fozuwuw togpikaw mizi juzuk vat waber se lelo ebluf ep cave wa sopa foivwi oci. Zom ihaimci ru neepo er ne hiloc raikidid pazu kefnevugo gatablat de. Iphaec ju bec laljunu pefgav gac kez iperomih honalile azfod hemuhi oveih petdoh puseki hazih wecutcun la."
+  },
+  "apiKey": "5b90a2209b150b4d33f4f73a25de489426c89426da0f5c2dc53f9034bc98acfb",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
