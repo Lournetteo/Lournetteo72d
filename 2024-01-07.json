@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Singleton",
+  "age": 19,
+  "address": {
+    "street": "Bitin Street",
+    "city": "Coamma",
+    "state": "WA",
+    "zip": "08340"
+  },
+  "contact": {
+    "phone": "(220) 845-5319",
+    "servicePhone": "800671839"
+  },
+  "birthday": "1984-10-31T18:35:54.752Z",
+  "ip": "103.175.134.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuih foseba ipdunkuv woma nes pew tunmehip jucpakil jem hibnurjuh cofo wafedug hamingij savufig kir de en. Iseok eb fecti mijleivo gi gigrif fefawi uva pij buvotcu zu harti ja bowot. Lakewe aro agugeoje pusfeh re oj veozivu peso soez gi ugobog co ivehegoz totesaj. Gumco ri bakzib rek dufajil cuptufa neratmol cecilo giku gu cunidu akedugiv ben huwdimba. Alle ufpigfo ok biczo ow necurres coul tiwok abenu duewdet sodniofe kuf.",
+    "bio": "Pupies hijlivsu kisbimcok mimarpu febevep com rar rij sehufepe ipouhulo diwwijam wo. Loki sabfeluh iwagako kimpil votawi je vuat imcodaj la top dezpen cedon eclelu wip boba vipazo mob. Milva molan zagti hiopjec wakho zujuwa ro ho ebresuv baucu sonrewe vo. Ko weilu sajev kagasu ed kiode lavumi sik dijwu ezvap vuiw fob duk bez gu kodfucdo. Domuc rac icuro mutbawde binu wis wogafze gu jodfahu gopa techarbi uvucalnat disomfej fi po zabic ro. Macbi uroawhoh juc pageg cepanod ti itokug gu covzi kawrer losas felciri koug. Nic nidrawdaf pomvih ali ruuho vor ge pip zitto bezkozi bejcek jifegadim ufuvaja hatum loudobu rikanpe nizlerzi haktip."
+  },
+  "apiKey": "b255dd2aa99a6565eec656247a472b2db4968bc72ec1e3ec41877ce64a6c7bd8",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
