@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Rice",
+  "age": 41,
+  "address": {
+    "street": "Gihbad Circle",
+    "city": "Ohogoawi",
+    "state": "NJ",
+    "zip": "22449"
+  },
+  "contact": {
+    "phone": "(709) 782-1813",
+    "servicePhone": "800655964"
+  },
+  "birthday": "1961-08-28T08:47:27.957Z",
+  "ip": "218.58.156.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Ikozedas saraguc ewiti uva nuj emasofgej fehrut efam hulu pav pahidpe vog hukif kej rifcus udsi filo vedo. Damuos himuwwir kuzikefo rehas woluoh mot celoba orarikjon jojev sar jus zemesin sil. Watut futzakim ube lobkom bacpapeb jiji wulmir pojhedbod zipijufi fibwug liisivo ji vepcuv wohire. Ro dufan girha ir fozeg ba dala tirafrik perbopgo idu koacevad uc la tanhisoh cegci ab gajtugpaj. Fa esifu gahro webawo vesdoggas acewe fa vewjotes vef okifigki dopomto mazehje. Eni kehuhris mewijil nirem akuga tad asulajnum adpe voziuko aszucic nacgiviwe mawelroh. Vajil huwagi zizbatva beagojiv ima gotraan li oj ridi fulma bujbed guzcow desusi mosis.",
+    "bio": "Naniwzo deg commut vunawne tek ruz akebi ejudezlir itobo tabureg sav fefbo cibufu kohtek. Badeco lotwa beik tewwadbi sitowo uzepig vuzji zosnesuh odrebep bewda kahnebi ov piwatuta mebop sigpuf akanaebe. Daazelo ojbenkan agifa jaojeup ufu caw jojmiv kiwib huw oti riekazej zurhavjaf jitaboh hebliat. Laoju agoecali watejoofe ico okpig umoh zopabijob om ekzad gepuseha sivbe tazgawpo pegno dop. Lijofi gavajaf bawziru rapidseg jiw gumuvaf nokhu no ihaki apoonose nek bofnu fe ulniw."
+  },
+  "apiKey": "4db992a7ef6da17f726a3bc805eca2cae9ef379d7fa16ce381bef9f62f45e9a7",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
