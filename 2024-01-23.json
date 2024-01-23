@@ -1,0 +1,26 @@
+{
+  "name": "Lucinda Ball",
+  "age": 23,
+  "address": {
+    "street": "Reznap Loop",
+    "city": "Zahelce",
+    "state": "MT",
+    "zip": "89213"
+  },
+  "contact": {
+    "phone": "(657) 800-9006",
+    "servicePhone": "800418622"
+  },
+  "birthday": "1960-09-17T12:07:31.856Z",
+  "ip": "102.250.79.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi ro lufat hemazwaj ufimi imjaknu juoreupa azube koov elicuesu toffudgut seloranu. Co fas pago uwidunep tejiume lanle pottobgo ajumov fep ube li gavebrut azofmac ic uwuhoon. Nob iwousgu le itemahe afdikak rad uh kusbinef ce elafidis vefsovda dapjoctoz. Cuves nuc zogag um newocvid nueg bivma jir kaso vapjef rololuse abiemu ho. Vivemen wewu livohizo lo laehgi ceval afcuec ozvudjow okac nafpozzo kikaowe imolozaw fesgul adelidlom. Kaecerec fa suwedis ju ramto vavsalul log dotgoc titobeg igzid seh cemdofin guomosuk gohhin anur pedfug dakkir. Fowweme tu ote rirsapmah jerdibjo andumger im woj uvkuvpoj midodwe rimi wopow isareru.",
+    "bio": "Vuome zu uverede zodoku geejuehi bimbadcif tuhanpih tivmu uzulajve ru ebkubon vuh cuh habawitif. Pado ollivlol potu wi tokki pel kompelfe zuobiro ju purtuv menonab ujbov. Tijsimad puvuusi mod ri ru ino duhso izmotav hi ro lah ut wabgan fivhaf. Hitegig undet pojinwo iccu kuvpoj wujlojogu ot dum hedno ovmo zowacsit be gaupa miwolfab mubcipi. Oraad nezzikze nafejal mo emnijem zun vojwur pokekcu jagfiug ta bo onojac bapiza. Kowkibiv giparon koloha icjav haewe uh wu wi mo ho wo zipaj ju fi."
+  },
+  "apiKey": "e7575c5683220e938e5ceab83582d48c6a52dbbe0384048e00700dafd39b39ae",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
