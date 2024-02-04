@@ -1,0 +1,26 @@
+{
+  "name": "Sam Ferguson",
+  "age": 51,
+  "address": {
+    "street": "Mifa Pike",
+    "city": "Divnicube",
+    "state": "TX",
+    "zip": "98919"
+  },
+  "contact": {
+    "phone": "(411) 588-8669",
+    "servicePhone": "800762465"
+  },
+  "birthday": "1998-09-30T08:50:32.282Z",
+  "ip": "173.84.84.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Mec obasa osli pa baevirod fu pupmesnif labcu divkulju cac zume mevwaksew lalonafi hubpe uje gehfeut ihger. Jehaf refovu tiis gatpetico bivvi nuw um nuh urupo gicodap tujduvof erofo big nomrolit taico. Kitin ejocine av gi gijo cajetes ocvobo dovognis nekiide daf hugincus fewok eho.",
+    "bio": "Jiukzev caz jibkoraj nuwane ahlohih lun pudfeb foenpo sulet bohge ogu hebo gaw. Ri juhjab toricit hiemefa wujil umuvo ce korpapdig ozu wukbaodo roc ecfo sehfaw. Fu om ogubeoso riamkiz abaaga ge ho wum emuvaol jefobzag relwep sa hav rahbow sulsif eletiop suj. Cimut sisciw undok tacuce pokzo diazgu ofej la jil mupu ejite bokpogel gezar henba nim. Garsi vilcoj ec werol va opwi da cep azbap micip forbez asazone fi ziive."
+  },
+  "apiKey": "c63c9cb1b164af751b7d2a3995365a7fe3bffd6437065384be0eb57424968b59",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
