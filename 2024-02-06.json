@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Hawkins",
+  "age": 53,
+  "address": {
+    "street": "Asuli Lane",
+    "city": "Wawepsud",
+    "state": "LA",
+    "zip": "40609"
+  },
+  "contact": {
+    "phone": "(670) 546-5498",
+    "servicePhone": "800878144"
+  },
+  "birthday": "1970-12-21T13:57:33.928Z",
+  "ip": "118.200.68.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujfer vatsop zejjab ecusikce nuztoma wahup in uvuje zarurfu javevsu ne pel imewu jekki. Pajer wa tem in adwurbo ce ohru nenev pe nu lidroh kuj mazmopho. Gavne vam wa tazo nesuke ki zam zefsut ecove avcen mi ve ezi. Ji ze pijbonjag wu eku isavifwe jopirzu suroj loofucaj ivaepeuj wal hacis duzepdu eciagnu ta usanohu heme.",
+    "bio": "Feksudo bunew jelek zinve oh jilaluru me ake enuge ib de opu rimez hoh pazvup igbiwavi. Mih hozbewaz titko fojikzac etonolo he asocubug gokoz gabiku tida huj owiorena bozul. Ov hemih va agdameg ola bolkaves asfupa ka devnugi vuc gogzor emeseufa efu."
+  },
+  "apiKey": "a74b77b2817882446bd972f132d6f9c01392dc5faae34420905162951170bd4a",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
