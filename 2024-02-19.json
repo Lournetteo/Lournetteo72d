@@ -1,0 +1,26 @@
+{
+  "name": "Hester Morgan",
+  "age": 40,
+  "address": {
+    "street": "Fooko River",
+    "city": "Uzzife",
+    "state": "MO",
+    "zip": "21356"
+  },
+  "contact": {
+    "phone": "(739) 346-5818",
+    "servicePhone": "800649597"
+  },
+  "birthday": "1964-12-23T08:18:18.272Z",
+  "ip": "61.7.150.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Boj fa ji papsilonu bopiik di uhokga ca nu mevline zi jasucnik dinmov of avwen fen il. Zo ic vuci zi pufgit bofjawu judme bijwe tacjo netero ji wa. Ubguvver fizin pufeg mikdi vicab bujij korah inojet eke honbepseg ofwo himtikju widle mef fuhcucto vungob folon. Cu totjok sehi rug oge ap furag dog milzujmar gathemun itu kabjegpi bovuvzep se.",
+    "bio": "Heb hikac dofmipo nuhha sefe ticmuh hebifbi kuk goga da binfer evu wumnol gulferu unjihif jepijaz. Ateji ga sumepunob ukmumak puswej tarneb gihsit vikawo sof akebi dilehac emusi amumo jahiglam edobowhin. Seduh udife tolob muwdeji lob cucpurtu pabit fira tozdufuw du ikoef asoap fobal epu."
+  },
+  "apiKey": "2393e4e71a6d4d715850be627daaaefe735392163aac613024faad101ae931db",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
