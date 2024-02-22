@@ -1,0 +1,26 @@
+{
+  "name": "Harold Powers",
+  "age": 26,
+  "address": {
+    "street": "Hewo Heights",
+    "city": "Mehipdi",
+    "state": "HI",
+    "zip": "37384"
+  },
+  "contact": {
+    "phone": "(451) 712-5691",
+    "servicePhone": "800917582"
+  },
+  "birthday": "1985-08-14T22:08:49.311Z",
+  "ip": "142.108.112.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Tadku ubadvad wuoki ko arhu osu tojmutgod izomehu hujevevi da uzihosud kutteowu murimofu. Ta kooki daginvaj zu iwa ekvod sekomeg iv fino gidfahah ireolge fafruw rok vikuda hic julev. Mej wafi fogtiwdi ri hipozir ci imusir erre ku ogli zohlizac wupfazot awvur ped hileda ama lele. Kuakipa ji vowa pufo sopaleug ge kun ekto ozmozcur zolhac japera hopihni itaroner aravegi soj nuol cuwuje huhob. Tafmetlir joh ruzsi fadac ki gaacaopa jenwut igisujo ce wijozo te vurtanih pu.",
+    "bio": "Huuza faz minofud kok gichud jiwrikad nesa puc foz wesjofar av fonkak levnohfec wuwu biwfina suamilu sutmec fu. Udmubda sof newuhol soklaotu ur fergo peculko pevjid neb akfap ju puw pipredaz ra fopde ivuffiz zinkamhe. Gac go ut ibe efeko dukja ucegopur hef alekefod buploplu meeco wirahof. Nerro bevo zesca te pifuh ru evta ci kopu ocoboojo caweec iderod ipaek enwamo."
+  },
+  "apiKey": "c1c8b780972e5f9b6ed75eb86b3b7b8ffc4f255d2e52ee807a450cad9c5eb71f",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
