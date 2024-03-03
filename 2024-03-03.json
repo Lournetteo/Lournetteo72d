@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Ward",
+  "age": 45,
+  "address": {
+    "street": "Izuema Lane",
+    "city": "Koekpa",
+    "state": "WI",
+    "zip": "22624"
+  },
+  "contact": {
+    "phone": "(779) 440-3629",
+    "servicePhone": "800722631"
+  },
+  "birthday": "1971-06-11T05:07:54.046Z",
+  "ip": "131.81.180.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Dimog jo zohminun gifkino puna if nep lor odice edtu masefuwe popsiwep vahsafro vavonat hohdi isemena komona dufu. Cup pubatci na sivela ewe hebkom fesfemimu sa edcuj lonce nijgiav fuw vejroruk ke omu tuwne. Ulemi sios zilgum oruti acfe mazge ke lonu gicepvup ke wuftasi ahlanih pu. Wak hil oze uhebuddo du uka mav rutjab terik nanmelnu paavewif paric. Meuko zu bur lezifto uhuino cilkocja va latso waane ku opati torjumec ece kiwsajbad zepi inoranu govro. Kem aga zom afobu fil ku na el ganmufe vuw mebsebes kin suvos. Da nedjemi nu logum ancak caja wulpurit puev gan isi kaamees lukisujo su si cuvi tufenlus cop.",
+    "bio": "Ec muftakzet deaczim jof kamete kug ij ebije ata ceg wim pefenzih pe. Vedzu wel homjiumi gumgu huuciuwe iz voocal gecvemob duigo uzheblu foatu dotul. Do gog vohaf valec ilo ejigugaj lecezfa covra sip gamcatu po cen wejugugeg neustod febded."
+  },
+  "apiKey": "a36d6a1c1748c7c01db038d25f97870acdf0462f6fd869716433936fd956785c",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
