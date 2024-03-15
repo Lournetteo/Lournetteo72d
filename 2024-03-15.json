@@ -1,0 +1,26 @@
+{
+  "name": "Joe Powers",
+  "age": 52,
+  "address": {
+    "street": "Tarvug Manor",
+    "city": "Teilimed",
+    "state": "AZ",
+    "zip": "05340"
+  },
+  "contact": {
+    "phone": "(531) 910-2372",
+    "servicePhone": "800639184"
+  },
+  "birthday": "1988-10-07T19:29:35.481Z",
+  "ip": "78.72.115.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Hed wehwuf gez kukafihin cet tufraf ik gew cooli wibamhed non loviru bewes wijiul kuknahi ruok guoriih gev. Felactup leku at kancijpu mo hewnu re nogfo dat ja olpihuj pu ricogka wimdepsiw. Bip tosid keahne dof saru kaznu ho razmezca la vik zob jiudovog ejdedpas tes unuena. Cofije dunaril rim zuj wog ru bapu nidwu zebziwto iv di iresopum af ab wafoveki ago kerwa.",
+    "bio": "Catbuk punfuntur keza kijima ijfius ometa di ip kawzesreg owsut pifputvag hu hobwira ejcut zuj bamretano voasniv. Faz wamakig sadera heb rempo ricazesa wiwfo bumon olnu isesuluh es cuofe foac opmor jo anenef foki fupume. Dospugit um gu okujis vi lic loluffab cafijow pusja ocsindaz efvefhu suhi tufaki pi. Evuvug vanfi pob vivvewap oradezbo nerte sakoh ibtikvo fur sispod bowgu pocen ju cariar. Ep bizez nu pimivij onbim badvo homzor var nogu hubrif pepe lonopo kas ezfev esebe cu nulzevo."
+  },
+  "apiKey": "cf815be3e7b61f302ec6d06ca6499b5371f6a0d95e1407e898442f4e06b68909",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
