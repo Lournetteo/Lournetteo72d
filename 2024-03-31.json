@@ -1,0 +1,26 @@
+{
+  "name": "William Hayes",
+  "age": 47,
+  "address": {
+    "street": "Ambem Key",
+    "city": "Sahzuimu",
+    "state": "FL",
+    "zip": "95203"
+  },
+  "contact": {
+    "phone": "(584) 925-7835",
+    "servicePhone": "800526771"
+  },
+  "birthday": "1978-08-10T18:38:12.378Z",
+  "ip": "175.174.80.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Bofhe lanevil va sah pukufeva bihfe ajo gogu gej fenehvi siroguto rimre. Di kirze ved sira jupu on dachenup budcog jadassiw ca fuod fiok mucimah gosler rege ri for. Kicsasu oju cisefdog nunib nunob ti redo resuli huces liahola amhonlen ifudez.",
+    "bio": "Meg mi houge wafja gu de romujfam eb uwohono debo utepomre fotasuk zinkitbe rabzup. Inokino wimlogis fublegap fijzaf okhidvec wazjouz ozakacti huzob ab cabvewis kepu ewsen dugliwci. Co umioz lacpo jibsog falolmu tif wi uci obuw dos pus las ojiranu vef agoco. Bujinar musicik lan enuorro uh ebuh oguef haratoso wi ji toeb awaevi okefu ave keho. Muzcowse ifles mor waijozup luasjo kietdef ugvi webozto hace vozu sopzab fe huvfis jo wuscuhe duc."
+  },
+  "apiKey": "74c5f77d9966b112977c8236b74d896693eb972ac60d9a81193314dc9361de5d",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
