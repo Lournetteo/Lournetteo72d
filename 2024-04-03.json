@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Francis",
+  "age": 49,
+  "address": {
+    "street": "Voni Plaza",
+    "city": "Muspajle",
+    "state": "CT",
+    "zip": "10145"
+  },
+  "contact": {
+    "phone": "(201) 531-5909",
+    "servicePhone": "800437317"
+  },
+  "birthday": "1976-12-31T19:43:56.736Z",
+  "ip": "33.164.49.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Cubzaszeg or ga idiwem dut civmo mala pikoehe bo gucogji luh uc uzkof tagon mopaj. Vumit fipzuc gedlo sobuucu dazwu kavebo cih vugolnin bu ipnaggov fupi cabopi gilnuvir sahju jehloro vu jasgan woz. Cuwuzbi mateplo padacpa kecizpis age ow omohuc onrev ricarib finre dojaniz dicsevreb roucouj.",
+    "bio": "Obi lipobut ga zulep biiwogil ti loge ta ufsak umu vew kaztugi vud cow unidi suvlene nekoh. Guj lonezdi zuwtuk uremocef dewde ziceg dehiw malif weila kutewike ilmumnut ozuzdi ejjaf egaibeduh poobte latevrug. Alneh iweci gekigak cidkotse wa ziif riiruit luv wobojtuh ni lo ki zenuzlov vonvi rawzovuz gehi ipi."
+  },
+  "apiKey": "f4ce3b885798773b31a05ed6dd04595a9bf9267e37d7cf53cf02f0aa19ad58b6",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
