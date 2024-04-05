@@ -1,0 +1,26 @@
+{
+  "name": "Lida Price",
+  "age": 19,
+  "address": {
+    "street": "Avzi Path",
+    "city": "Behudiv",
+    "state": "AR",
+    "zip": "84829"
+  },
+  "contact": {
+    "phone": "(355) 967-8767",
+    "servicePhone": "800342618"
+  },
+  "birthday": "1999-10-04T02:35:26.078Z",
+  "ip": "253.67.5.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Eko subenozib rikkavfi oh vence fer sogivouk ducwemnuj firaclik mi podid zugi fat. Zedujbiv alza bisev olivi jokenkaf le reves tadnu fu butimgac hojnuoke pacmul beroafa wi hakub. Reej kiv zos ifuzeusu jaz ocjijat omirappu pevab re agiwi ifu egnatav eh dilriojo navewawu nuberi mijowoazu. Riorufo ser cesoldag obaoco gucas ga upahuz zowhuwlil mufnuli ohutonub pesofnus zilrilak gah rudobe. Ahfuz gula bu hikoge no ehu fegkej ikarez fobulfol pihab seg dour. Ug wosofsab ja orbuvobo ufpa pin ewcomit for walevut ikzovti potfana fubur teoh gi gancorma zisa zifnaka covki.",
+    "bio": "Rajos zuj ar ga lesbukzo rep coawgef jilor atailevem corfe guza kajinas wautudo godepzo ropefzo. Kutohuat pumvadal rakvej vew uw bid tuzicebeb wukur opco bo rupekag vobargov walutif lu nam gobokimi. Ecebejul bewdesgi lemdoral gefar to donvibpa pucushar jemdalnag pa ib zihti rezcen efgon."
+  },
+  "apiKey": "fd7ec1faee27773d782259674a3d2844afa18d7263ebe457804bf2cd46af2bbf",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
