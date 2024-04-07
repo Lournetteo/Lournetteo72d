@@ -1,0 +1,26 @@
+{
+  "name": "Mable May",
+  "age": 53,
+  "address": {
+    "street": "Duuv Mill",
+    "city": "Otwiej",
+    "state": "OK",
+    "zip": "84442"
+  },
+  "contact": {
+    "phone": "(750) 826-5238",
+    "servicePhone": "800191935"
+  },
+  "birthday": "1960-04-14T13:40:44.802Z",
+  "ip": "12.119.54.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma mo kikwed hop bi fomamit ovfezar suritvaj ciimuiza motlut nusristos ofucbo ne zikha nap damo. Mal binrotvur uk ew bepi uzuoglos omo ihijo rihiji fifagmal su tap zos jevilged zoz lubutvoh ilu memanivi. Vefimofa gu bipamma ziho re akdid tugarad hifenolo tor zup za ro ho hi.",
+    "bio": "Veotmil lihpot dubgoc fup fesioj fejfe om hero cumednis fas omi efooheage jelpioh juop wajaga. Secun seugpa sof hobpeh su emwive tan mijhas puk lebacwar fogpuv hifwu te ic vam hum. Iduro tebho uc kuunu imtep honpeugi hoj gabwokizu jep no riduce jaoner pucri oc inafola."
+  },
+  "apiKey": "9ab3e64eccc7b692a5268617787d318fdfc32c7faeda342857c015f4ffa88d02",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
