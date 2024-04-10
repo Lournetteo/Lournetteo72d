@@ -1,0 +1,26 @@
+{
+  "name": "Fred Patterson",
+  "age": 40,
+  "address": {
+    "street": "Dovu Highway",
+    "city": "Rimwuzac",
+    "state": "LA",
+    "zip": "63533"
+  },
+  "contact": {
+    "phone": "(455) 362-7535",
+    "servicePhone": "800916218"
+  },
+  "birthday": "1970-12-03T12:41:01.026Z",
+  "ip": "144.183.98.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Guvwin buso pobi on uh bisum burabew ewehas cup toloju wewulge pi rozra id dobcob. Ga ifwice magep zekdaak bujwan ficojli cemokle bu hirmufeg nefijova felal nabag ritad bazpa omiruc ni pe papin. War penure kog nu cuhih wemjo weskuz bucuw la se ujpu pieflu zis udu wu overam.",
+    "bio": "Maoja mu meraz akmu ictesec je pa hohbo juntubor kafuwrus gelem fuafo tewu da rer monipe gu boop. Seakier coru gihehi ho wipzo ruvhi dovnor fawi demeac iga mibog se. Lalok hal teto wil pojej osjuj nucato po ibonenle cirbeszi ime onohi jan udo budes ka im. Tobha hitejdi ceciso itebi hahtew takcim buev ihicev guwje vakosdok meh bimoaf tosavub folub."
+  },
+  "apiKey": "76bedf9b306e362d155792a40c4579570b49961ad327bd809e3c72dac9b456e4",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
